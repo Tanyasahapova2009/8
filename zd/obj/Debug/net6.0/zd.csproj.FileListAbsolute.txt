@@ -1,0 +1,15 @@
+D:\Documents\Downloads\dz8\8\zd\bin\Debug\net6.0\zd.exe
+D:\Documents\Downloads\dz8\8\zd\bin\Debug\net6.0\zd.deps.json
+D:\Documents\Downloads\dz8\8\zd\bin\Debug\net6.0\zd.runtimeconfig.json
+D:\Documents\Downloads\dz8\8\zd\bin\Debug\net6.0\zd.dll
+D:\Documents\Downloads\dz8\8\zd\bin\Debug\net6.0\zd.pdb
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\zd.csproj.AssemblyReference.cache
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\zd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\zd.AssemblyInfoInputs.cache
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\zd.AssemblyInfo.cs
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\zd.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\zd.dll
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\refint\zd.dll
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\zd.pdb
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\zd.genruntimeconfig.cache
+D:\Documents\Downloads\dz8\8\zd\obj\Debug\net6.0\ref\zd.dll
